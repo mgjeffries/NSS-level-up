@@ -29,7 +29,7 @@
         "fields": {
             "title": "Dungeons & Dragons",
             "maker": "Wizards of the Coast",
-            "gamer": 1,
+            "gamer": 2,
             "gametype": 2,
             "number_of_players": 5,
             "skill_level": 3
